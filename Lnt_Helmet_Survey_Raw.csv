@@ -1,0 +1,47 @@
+Respondent_ID,Name,Age,Gender ,Place ,Date,Safety_Device,Helemt_Frequency,Most_Vulnerable_User,ISI_Awareness,Youth_Role,Speed_Limit_Knowledge,Helmet_Prevention_belief,Helmet_Buying_Factor,Pillion_Helmet,Mirror_Importance,Helmet_Type,Influenced_Others,Media_Influence
+1,Govind Yadav,19,M,DTU,10/12/2024,None,Always,Two Wheeler,No,Yes,25 KMPH,No,Safety,Always,Very Useful,Standard(ISI Marked),Yes,Yes
+2,Bhavya,20,M,DTU,10/12/2024,Quality Helmet,Sometime,Two Wheeler,No,Yes,25 KMPH,Yes,Safety,Always,Very Useful,Standard(ISI Marked),No,Yes
+3,Abhishek Kumar,21,M,DTU,11/12/2024,Quality Helmet,Always,Two Wheeler,No,Yes,25 KMPH,Yes,Safety,Never,Very Useful,Standard(ISI Marked),Yes,No
+4,Gupreet,20,M,DTU,10/12/2024,Quality Helmet,Always,Two Wheeler,No,Yes,30 KMPH,Yes,Safety,Never,Sometime Useful,Standard(ISI Marked),Yes,No
+5,Mayank Yadav,21,M,DTU,10/12/2024,None,Always,Two Wheeler,No,Yes,25 KMPH,Yes,Price,Never,Sometime Useful,Standard(ISI Marked),No,Yes
+6,Nikshep,23,M,DTU,10/12/2024,None,Always,Cyclists,No,Yes,40 KMPH,Yes,Safety,Sometimes,Sometime Useful,Standard(ISI Marked),Yes,Yes
+7,Shashank Chabey,22,M,DTU,11/12/2024,Quality Helmet,Always,Cyclists,Yes,Yes,60 KMPH,Yes,Safety,Choice,Sometime Useful,Standard(ISI Marked),No,Yes
+8,Tushar,21,M,DTU,11/12/2024,Quality Helmet,Sometime,Two Wheeler,No,Yes,30 KMPH,Yes,Safety,Choice,Very Useful,Standard(ISI Marked),Yes,Yes
+9,Kalash,23,M,DTU,11/12/2024,None,Always,Two Wheeler,No,Yes,25 KMPH,Yes,Price,Sometimes,Very Useful,Standard(ISI Marked),No,Yes
+10,Apoorv,22,M,DTU,11/12/2024,Quality Helmet,Always,Two Wheeler,No,Yes,25 KMPH,Yes,Safety,Choice,Very Useful,Standard(ISI Marked),Yes,Yes
+11,Kalicharan,33,M,DTU,10/12/2024,None,Always,Two Wheeler,No,Yes,25 KMPH,Yes,Safety,Always,Sometime Useful,Non-Standard(Local Mode),Yes,Yes
+12,Akshit,21,M,DTU,10/12/2024,Quality Helmet,Always,Two Wheeler,No,Yes,25 KMPH,Yes,Safety,Sometimes,Very Useful,Standard(ISI Marked),Yes,Yes
+13,Parth,21,M,DTU,11/12/2024,Quality Helmet,Always,Two Wheeler,No,Yes,40 KMPH,Yes,Safety,Sometimes,Sometime Useful,Standard(ISI Marked),No,No
+14,Parveen ,38,M,DTU,10/12/2024,Quality Helmet,Always,Pedestrians,Yes,Yes,25 KMPH,Yes,Safety,Always,Sometime Useful,Standard(ISI Marked),Yes,Yes
+15,Lavya ,18,M,DTU,11/12/2024,Quality Helmet,Always,Two Wheeler,No,Yes,25 KMPH,Yes,Safety,Sometimes,Very Useful,Non-Standard(Local Mode),No,Yes
+16,Abhishek ,21,M,DTU,10/12/2024,Quality Helmet,When Needed,Two Wheeler,No,Yes,25 KMPH,Yes,Safety,Never,Very Useful,Standard(ISI Marked),No,No
+17,Sajel,23,M,DTU,10/12/2024,Quality Helmet,When Needed,Two Wheeler,No,Yes,25 KMPH,Yes,Safety,Sometimes,Very Useful,Standard(ISI Marked),Yes,No
+18,Akshay,20,M,DTU,10/12/2024,Quality Helmet,Always,Cyclists,Yes,Yes,40 KMPH,Yes,Style,Always,Sometime Useful,Non-Standard(Local Mode),Yes,Yes
+19,Sambhav,20,M,DTU,10/12/2024,Quality Helmet,Always,Cyclists,No,Yes,30 KMPH,Yes,Price,Always,Very Useful,Standard(ISI Marked),Yes,No
+20,Vaibhav,20,M,DTU,10/12/2024,Quality Helmet,Always,Two Wheeler,Yes,Yes,30 KMPH,Yes,Safety,Always,Very Useful,Non-Standard(Local Mode),Yes,Yes
+21,Abhishek,22,M,DTU,10/12/2024,Quality Helmet,When Needed,Car Driver,Yes,No,30 KMPH,Yes,Safety,Always,Sometime Useful,Non-Standard(Local Mode),Yes,Yes
+22,Shubh,22,M,DTU,10/12/2024,Quality Helmet,When Needed,Pedestrians,No,Yes,40 KMPH,Yes,Price,Always,Very Useful,Standard(ISI Marked),Yes,Yes
+23,Gaurav,21,M,DTU,11/12/2024,None,Always,Two Wheeler,Yes,Yes,25 KMPH,Yes,Style,Always,Very Useful,Standard(ISI Marked),Yes,Yes
+24,Nancy,26,F,DTU,11/12/2024,Quality Helmet,Always,Car Driver,No,Yes,30 KMPH,Yes,Safety,Always,Very Useful,Standard(ISI Marked),No,Yes
+25,Akarsh,21,M,DTU,10/12/2024,Quality Helmet,Always,Pedestrians,Yes,Yes,30 KMPH,Yes,Safety,Always,Sometime Useful,Standard(ISI Marked),Yes,Yes
+26,Anvesha,21,F,DTU,10/12/2024,Quality Helmet,Always,Cyclists,No,Yes,25 KMPH,Yes,Safety,Always,Very Useful,Standard(ISI Marked),Yes,Yes
+27,Aman,20,M,DTU,10/12/2024,Quality Helmet,Always,Cyclists,Yes,No,30 KMPH,Yes,Safety,Always,Very Useful,Standard(ISI Marked),Yes,Yes
+28,Awanit,20,M,DTU,10/12/2024,Quality Helmet,Always,Cyclists,Yes,No,25 KMPH,Yes,Safety,Always,Very Useful,Standard(ISI Marked),Yes,Yes
+29,Kushal,20,M,DTU,10/12/2024,Quality Helmet,Always,Cyclists,Yes,Yes,40 KMPH,Yes,Safety,Always,Very Useful,Standard(ISI Marked),Yes,Yes
+30,Manish,20,M,DTU,10/12/2024,Quality Helmet,Always,Pedestrians,Yes,Yes,30 KMPH,Yes,Price,Always,Very Useful,Standard(ISI Marked),Yes,Yes
+31,Anish,20,M,DTU,10/12/2024,Quality Helmet,Always,Cyclists,Yes,Yes,30 KMPH,Yes,Price,Always,Very Useful,Standard(ISI Marked),Yes,Yes
+32,Anshul,20,M,DTU,10/12/2024,Quality Helmet,Always,Cyclists,Yes,Yes,30 KMPH,Yes,Price,Always,Very Useful,Standard(ISI Marked),Yes,Yes
+33,Abhishek,20,M,DTU,10/12/2024,Quality Helmet,Always,Pedestrians,Yes,Yes,40 KMPH,Yes,Price,Always,Very Useful,Standard(ISI Marked),Yes,Yes
+34,Saumik,20,M,DTU,10/12/2024,None,Always,Two Wheeler,No,Yes,40 KMPH,Yes,Safety,Sometimes,Sometime Useful,Non-Standard(Local Mode),Yes,No
+35,Himanshu,21,M,DTU,10/12/2024,Quality Helmet,Always,Cyclists,Yes,Yes,25 KMPH,Yes,Price,Sometimes,Very Useful,Topi Type,Yes,Yes
+36,Hemang Verma,22,M,DTU,10/12/2024,Quality Helmet,Always,Cyclists,Yes,Yes,25 KMPH,No,Price,Always,Not Useful,Standard(ISI Marked),No,No
+37,Harsh,20,M,DTU,10/12/2024,Quality Helmet,When Needed,Cyclists,Yes,Yes,25 KMPH,No,Price,Sometimes,Very Useful,Standard(ISI Marked),Yes,No
+38,Hardik,20,M,DTU,10/12/2024,Quality Helmet,Always,Two Wheeler,Yes,Yes,25 KMPH,Yes,Safety,Never,Very Useful,Standard(ISI Marked),No,Yes
+39,Namrat,20,M,DTU,10/12/2024,Quality Helmet,Always,Cyclists,Yes,Yes,25 KMPH,No,Brand,Always,Very Useful,Standard(ISI Marked),Yes,Yes
+40,Aryan ,21,M,DTU,10/12/2024,Quality Helmet,Always,Cyclists,Yes,Yes,30 KMPH,Yes,Safety,Sometimes,Very Useful,Standard(ISI Marked),No,Yes
+41,Tannu,18,F,DTU,10/12/2024,Quality Helmet,When Needed,Car Driver,Yes,Yes,30 KMPH,Yes,Safety,Sometimes,Very Useful,Half Faced,Yes,No
+42,Anshuman,21,M,DTU,10/12/2024,Quality Helmet,Always,Cyclists,Yes,Yes,25 KMPH,Yes,Safety,Always,Very Useful,Standard(ISI Marked),Yes,No
+43,Jatin,20,M,DTU,10/12/2024,None,When Needed,Car Driver,No,Yes,30 KMPH,Yes,Brand,Always,Not Useful,Standard(ISI Marked),No,Yes
+44,Rahul,20,M,DTU,10/12/2024,Quality Helmet,Always,Two Wheeler,Yes,Yes,30 KMPH,Yes,Brand,Always,Very Useful,Non-Standard(Local Mode),Yes,Yes
+45,Akshat,20,M,DTU,10/12/2024,Quality Helmet,Sometime,Two Wheeler,Yes,Yes,25 KMPH,Yes,Safety,Sometimes,Very Useful,Standard(ISI Marked),Yes,Yes
+,,,,,,,,,,,,,,,,,,
